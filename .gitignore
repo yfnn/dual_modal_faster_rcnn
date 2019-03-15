@@ -1,0 +1,8 @@
+dual_modal_faster_rcnn/data/demo
+dual_modal_faster_rcnn/data/demo_result
+dual_modal_faster_rcnn/data/demo_anno
+dual_modal_faster_rcnn/KAISTdevkit/result
+dual_modal_faster_rcnn/KAISTdevkit/data
+dual_modal_faster_rcnn/KAISTdevkit/annotations_cache
+dual_modal_faster_rcnn/output
+
